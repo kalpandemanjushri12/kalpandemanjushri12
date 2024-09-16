@@ -1,8 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-<h1 align="center">Hi 🙋🏻‍♀️, I'm Manjushri Kalpande</h1>
-<h3 align="center">Aspiring Bioinformatician| Eager to Decode Life’s Blueprint through Bioinformatics</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-4706460855862906629">
 
+<h1 align="center">Hi 🙋🏻‍♀️, I'm Manjushri Kalpande</h1>
+<h3 align="center">Aspiring Bioinformatician | Eager to Decode Life’s Blueprint through Bioinformatics</h3>
+- 📫 How to reach me **mjkalpande@gmail.com**
 <h3 align="left"></h3>
 <p align="left">
 </p>
@@ -15,6 +14,10 @@
 <p align="left">
 </p>
 🚀 Experienced in troubleshooting tool installation error in linux environment
+<h3 align="left"></h3>
+<p align="left">
+</p>
+🌱Retrieval of biological data from public and proprietary databases such as NCBI, UCSC 
 
 
 
