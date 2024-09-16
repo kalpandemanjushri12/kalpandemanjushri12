@@ -9,7 +9,7 @@
 <h3 align="left"></h3>
 <p align="left">
 </p>
-🏝️ I have worked on RNA-Seq data analaysis and DEG annotaion
+🏝️ I have worked on NGS data analysis (RNA-Seq data analaysis) and DEG annotaion
 <h3 align="left"></h3>
 <p align="left">
 </p>
