@@ -10,6 +10,9 @@
 <p align="left">
 </p>
 1. Python for data manipulation and analysis of large datasets.
+<h3 align="left"></h3>
+<p align="left">
+</p>
 2. Nextflow for pipeline development, which is emerging as the future of bioinformatics due to its scalability, reproducibility, and ease of integration with various computational resources.
 <h3 align="left"></h3>
 <p align="left">
