@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 🙋🏻‍♀️, I'm Manjushri Kalpande</h1>
-<h3 align="center">Aspiring Bioinformatician | Eager to Decode Life’s Blueprint through Bioinformatics</h3>
+<h3 align="center">Aspiring Bioinformatician | Working as Project Assistant at IBAB, Bengaluru</h3>
 - 📫 How to reach me **mjkalpande@gmail.com**
 <h3 align="left"></h3>
 <p align="left">
@@ -9,11 +9,11 @@
 <h3 align="left"></h3>
 <p align="left">
 </p>
-1. Python for data manipulation and analysis of large datasets.
+1. Nextflow for pipeline development, which is emerging as the future of bioinformatics due to its scalability, reproducibility, and ease of integration with various computational resources.
 <h3 align="left"></h3>
 <p align="left">
 </p>
-2. Nextflow for pipeline development, which is emerging as the future of bioinformatics due to its scalability, reproducibility, and ease of integration with various computational resources.
+2. Python for data manipulation and analysis of large datasets.
 <h3 align="left"></h3>
 <p align="left">
 </p>
