@@ -17,7 +17,7 @@
 <h3 align="left"></h3>
 <p align="left">
 </p>
-🏝️ I have worked on NGS data analysis (RNA-Seq data analaysis) and DEG annotaion
+🏝️ I have worked on NGS data analysis which involves RNA-Seq data analaysis, Variant Calling
 <h3 align="left"></h3>
 <p align="left">
 </p>
