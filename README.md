@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 🙋🏻‍♀️, I'm Manjushri Kalpande</h1>
 <h3 align="center">Aspiring Bioinformatician | Working as Project Assistant at IBAB, Bengaluru</h3>
-- 📫 How to reach me **mjkalpande@gmail.com**
+- 📫 You can reach out to me at **mjkalpande@gmail.com**
 <h3 align="left"></h3>
 <p align="left">
 </p>
-🌱 I’m currently learning -
+🌱 I am  currently learning -
 <h3 align="left"></h3>
 <p align="left">
 </p>
