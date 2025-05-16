@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 🙋🏻‍♀️, I'm Manjushri Kalpande</h1>
 <h3 align="center">Aspiring Bioinformatician | Working as Project Assistant at IBAB, Bengaluru</h3>
-- 📫 You can reach out to me at **mjkalpande@gmail.com**
+📫 You can reach out to me at **mjkalpande@gmail.com**
 <h3 align="left"></h3>
 <p align="left">
 </p>
