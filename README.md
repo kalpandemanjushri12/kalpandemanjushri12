@@ -17,7 +17,7 @@
 <h3 align="left"></h3>
 <p align="left">
 </p>
-🏝️ I have worked on NGS data analysis which involves RNA-Seq data analaysis, Variant Calling
+🏝️ I have worked on NGS data analysis which involves RNA-Seq data analaysis, Variant Calling, Denovon Assembly, Reference based Assembly
 <h3 align="left"></h3>
 <p align="left">
 </p>
